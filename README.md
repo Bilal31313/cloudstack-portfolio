@@ -1,5 +1,11 @@
 # CloudStack Portfolio: Infrastructure as Code on AWS
 
+![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-green)
+
+
 This project demonstrates a complete Infrastructure-as-Code (IaC) setup on AWS using Terraform.
 
 ## 📋 Project Overview
@@ -82,6 +88,6 @@ This project is open-sourced for demonstration and educational purposes.
 👨‍💻 Author
 Bilal Khawaja
 **Cloud Engineer | AWS Certified Solutions Architect Associate**  
-🔗 [LinkedIn Profile](https://linkedin.com/in/bilal-khawaja-65b883243) 
+🔗 [LinkedIn Profile](www.linkedin.com/in/bilal-khawaja-65b883243) 
 
 
