@@ -81,7 +81,7 @@ This project is open-sourced for demonstration and educational purposes.
 
 👨‍💻 Author
 Bilal Khawaja
-Cloud Engineer | AWS Certified Solutions Architect Associate  
-[LinkedIn](https://linkedin.com/in/bilal-khawaja-65b883243)
+**Cloud Engineer | AWS Certified Solutions Architect Associate**  
+🔗 [LinkedIn Profile](https://linkedin.com/in/bilal-khawaja-65b883243)
 
 
