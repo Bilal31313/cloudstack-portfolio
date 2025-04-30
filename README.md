@@ -1,4 +1,4 @@
-# CloudStack Portfolio: Infrastructure as Code on AWS
+# terraform-modules-network-compute-demo
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-blueviolet)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
